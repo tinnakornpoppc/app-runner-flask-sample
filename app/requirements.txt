@@ -50,6 +50,3 @@ urllib3==2.2.3
     #   requests
 werkzeug==3.1.0
     # via flask
-
-# add gunicorn
-gunicorn
